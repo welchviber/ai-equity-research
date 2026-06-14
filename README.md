@@ -63,10 +63,12 @@ This project was developed using OpenClaw's agentic framework as an active devel
 
 The OpenClaw agent autonomously diagnosing and fixing the SEC and Yahoo data pipeline bugs over Telegram:
 
+
 <img width="842" height="591" alt="Screenshot 2026-06-14 004547" src="https://github.com/user-attachments/assets/1bd29f27-f686-4096-8080-724580a285ed" />
 <img width="675" height="1151" alt="Screenshot 2026-06-14 004552" src="https://github.com/user-attachments/assets/f213e891-4622-47b3-ae46-c59265aaeb0a" />
 <img width="998" height="1095" alt="Screenshot 2026-06-14 004557" src="https://github.com/user-attachments/assets/8bea79d8-e4ef-411b-924f-a28bc1c503b4" />
 <img width="810" height="498" alt="Screenshot 2026-06-14 004927" src="https://github.com/user-attachments/assets/b4e426ee-4ac1-495a-845b-e34bf6bf3c8b" />
+
 
 
 This demonstrates the agent operating across a real multi-step workflow: reading the codebase, testing data feeds in isolation, identifying root causes, patching the script, and verifying the fix end-to-end.
