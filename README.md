@@ -15,7 +15,7 @@ An autonomous financial research agent built with Python, OpenClaw, and the Clau
   - AI thesis benchmarked against Wall Street consensus on directional calls
   - Valuation and investment recommendation
 - Saves each memo as a .txt file
-- Runs autonomously as an OpenClaw agent — message a ticker on Telegram and receive a full memo back
+- Runs autonomously as an OpenClaw agent - message a ticker on Telegram and receive a full memo back
 
 ## Tech Stack
 
