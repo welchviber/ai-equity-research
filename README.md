@@ -1,6 +1,6 @@
 # AI Equity Research Agent
 
-An autonomous financial research agent built with Python, OpenClaw, and the Claude API. It ingests SEC filings and live market data for any publicly traded company and generates structured investment memos with bull/bear case breakdowns — accessible from the command line or autonomously via Telegram.
+An autonomous financial research agent built with Python, OpenClaw, and the Claude API. It ingests SEC filings and live market data for any publicly traded company and generates structured investment memos with bull/bear case breakdowns - accessible from the command line or autonomously via Telegram.
 
 ## What It Does
 
