@@ -116,4 +116,4 @@ This tool is for research and educational purposes only. It is not financial adv
 
 ## Author
 
-Welch Lim
+Welch Lim Chee Cheng
